@@ -15,5 +15,5 @@ BUS_1      BUS_2          100.0       1.0       2.645      5.290      0.000     
 BUS_1      BUS_3          100.0       1.0       1.322      3.967      0.000      0.000
 BUS_2      BUS_3          100.0       1.0       1.653      3.306      0.000      0.000
 
-Consider <sub>subscript</sub>  and  
+Consider S<sub>base</sub> = 100 MVA  and V<sub>base</sub> = 115 kV
 Build the network model using the admittance matrix (Ybus).

@@ -14,5 +14,5 @@ From Bus    To Bus         MVA      Long(Km) r(Ω/km)  x(Ω/km)   g(us/km)   b(n
 BUS_1      BUS_2          100.0       1.0       2.645      5.290      0.000      0.000
 BUS_1      BUS_3          100.0       1.0       1.322      3.967      0.000      0.000
 BUS_2      BUS_3          100.0       1.0       1.653      3.306      0.000      0.000
-Consider S<sub>base</sub> and  
+Consider <sub>subscript</sub>  and  
 Build the network model using the admittance matrix (Ybus).
